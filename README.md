@@ -6,5 +6,3 @@ DevOps & Site Reliability Engineer
 
 * 🌍  I'm based in Toronto, Ontario, Canada
 * ✉️  You can contact me at [blake@randall.family](mailto:blake@randall.family)
-
-### Skills
